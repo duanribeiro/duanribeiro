@@ -17,8 +17,8 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://www.linkedin.com/in/duan-ribeiro/detail/recent-activity/posts/)
+- 📫 Read my blogs: [Duan Blog](https://www.linkedin.com/in/duan-ribeiro/detail/recent-activity/posts/)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=duanribeiro&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=duanribeiro&show_icons=true&hide_border=true)
 
 
