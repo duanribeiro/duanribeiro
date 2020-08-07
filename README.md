@@ -10,9 +10,9 @@ I am Duan Rafael RIberio 😃. I am from São Paulo, Brazil and currently develo
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **React, Vue, HTML, CSS , JavaScript**
+- Front-end development using **React, Vue, HTML, CSS, JavaScript**
 - Backend development using **Python**
-- Robust full-stack system design implementation
+- Most used databases **PostgreSQL, SQL Server, MongoDB, Redis**
 - Creating scalable cloud architecture using **Docker, Serverless, Kubernetes**
 
 ## Hello World!! 🤔
