@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-duanribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-ribeiro/)](https://www.linkedin.com/in/duan-ribeiro/)
 
 
-I am Duan Rafael RIberio 😃. I am from São Paulo, Brazil and currently developing applications in the finance area.
+I am Duan Rafael Ribeiro 😃. I am from São Paulo, Brazil and currently developing applications in the finance area.
 
 
 ## ⚡ Technologies
