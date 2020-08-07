@@ -21,4 +21,5 @@ Talk to me about
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=duanribeiro&show_icons=true&hide_border=true)
 
+[![Duan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duanribeiro&layout=compact)](https://github.com/duanribeiro)
 
