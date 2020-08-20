@@ -5,13 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-duanribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-ribeiro/)](https://www.linkedin.com/in/duan-ribeiro/)
 
 
-I am Duan Rafael Ribeiro 😃. I am from São Paulo, Brazil and currently developing applications in the finance area.
+I am Duan Rafael Ribeiro 😃, i'm from São Paulo, Brazil and currently developing applications on the finance area.
 
 
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **React, Vue, HTML, CSS, JavaScript**
-- Backend development using **Python**
+- Back-end development using **Python**
 - Databases as **PostgreSQL, SQL Server, MongoDB, Redis**
 - Creating scalable cloud architecture using **Docker, Serverless, Kubernetes**
 
