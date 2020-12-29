@@ -19,7 +19,5 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Duan Blog](https://www.linkedin.com/in/duan-ribeiro/detail/recent-activity/posts/)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=duanribeiro&show_icons=true&hide_border=true)
-
-[![Duan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duanribeiro&layout=compact&hide_border=true)](https://github.com/duanribeiro)
+[![Duan top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duanribeiro&layout=compact&hide_border=true&theme=dark)](https://github.com/duanribeiro)
 
