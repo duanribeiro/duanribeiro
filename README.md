@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-duanribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duan-ribeiro/)](https://www.linkedin.com/in/duan-ribeiro/)
 
 
-I am Duan Rafael Ribeiro 😃, if you want to checkout my latest project access https://www.radarimovel.com.br/
 
 
 ## ⚡ Technologies
